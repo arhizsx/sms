@@ -1,3 +1,3 @@
-<a href="/">
-    <img width="100%" src="{{ asset('sms.png') }}">
+<a href="/" class="text-center">
+    <img width="20%" src="{{ asset('sms.png') }}">
 </a>
