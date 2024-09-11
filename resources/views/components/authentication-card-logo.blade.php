@@ -1,3 +1,3 @@
 <a href="/">
-    <img src="sms.png">
+    <img src="{{ asset('sms.png') }}">
 </a>
