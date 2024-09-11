@@ -9,7 +9,7 @@ Route::middleware([
 ])->group(function () {
 
     Route::get('/', function () {
-        return view('home');
+        return view('dashboard');
     })->name('dashboard');
 
 
